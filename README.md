@@ -1,2 +1,2 @@
 Root README.md content
-Delices
+Delices.
